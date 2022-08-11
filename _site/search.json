@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "assignment/index.html",
+    "href": "assignment/index.html",
+    "title": "Tareas",
+    "section": "",
+    "text": "Los problem set son opcionales y su objetivo es que ustedes puedan afianzar las competencias ganadas durante el minicurso. Recuerden que a los dos alumnos con las notas más altas se les dará una beca completa para la segunda edición del curso R para Ciencia de Datos en Salud: Análisis Descriptivo e Inferencia Estadística. Puedes ver la primera edición para que veas de que tratará este curso: https://rcds3.inkastats.es/."
+  },
+  {
+    "objectID": "assignment/index.html#problem-sets",
+    "href": "assignment/index.html#problem-sets",
+    "title": "Tareas",
+    "section": "Problem sets",
+    "text": "Problem sets\nDeberá demostrar que hizo un esfuerzo consciente para resolver cada pregunta.\n\n✔+: (20 puntos) La tarea está 100% completa. Todas las preguntas fueron respondidas, y la mayoría de las respuestas son correctas. El documento es limpio y fácil de seguir. El trabajo es excepcional. A menudo no asignaré este puntaje.\n✔: (18 puntos) La tarea está completa en un 70–99 % y la mayoría de las respuestas son correctas. Este es el nivel de rendimiento esperado.\n✔−: (13 puntos) La tarea está completa en menos del 70 % y/o la mayoría de las respuestas son incorrectas. Esto indica que necesita mejorar la próxima vez. Espero no asignarlos a menudo.\n\nPueden (¡y deben!) trabajar juntos en los conjuntos de problemas, pero deben entregar sus propias respuestas. No pueden trabajar en grupos de más de cuatro personas, y deben indicar quién participó en el grupo en tu tarea"
+  },
+  {
+    "objectID": "content/01-content.html",
+    "href": "content/01-content.html",
+    "title": "Sesión 1: Introducción a R y RStudio",
+    "section": "",
+    "text": "¡Bienvenidos al curso Introducción al software R para Ciencia de Datos en Salud! Este curso fue diseñado para el XXXVI CCN Huancayo - SOCIMEP 2022.\n\n\n\n\n\n\nObjetivos\n\n\n\nEn esta primera sesión revisaremos los siguiente:\n\nCiencia de Datos en Salud Reproducible.\n¿Qué es R y RStudio? ¿Cuáles son las principales herramientas con las que cuenta?\nPrimeros pasos con R\n\n\n\n\n\nEn este curso haremos uso de los laboratorios de cómputo que ya cuentan con las últimas versiones de R y RStudio.\nSi Ud. quiere replicarlo en su propia computadora, antes que todo, debe instalar la última versión de los programas que usaremos para este curso. Dependiendo su sistema operativo, Ud. debería instalar los siguientes programas:\n\nWindowsMacLinux (cualquier distro)\n\n\n\nR\nR Studio\nR tools\n\n\n\n\nR\nR Studio\n\n\n\n\nR\nR Studio\n\n\n\n\nSi cuenta con una versión previa, elimínelas y reinstale todo de nuevo: debe tener la última versión actualizada de todos estos. Si nunca ha instalado R, ni los demás programa, hemos preparado el siguiente tutorial de instalación, el cual está disponible en la sección Recursos de la web del curso: Enlace aquí."
+  },
+  {
+    "objectID": "content/01-content.html#slides",
+    "href": "content/01-content.html#slides",
+    "title": "Sesión 1: Introducción a R y RStudio",
+    "section": "Slides",
+    "text": "Slides\n\n Ver diapositivas en una nueva ventana"
+  },
+  {
+    "objectID": "content/01-content.html#info-extra",
+    "href": "content/01-content.html#info-extra",
+    "title": "Sesión 1: Introducción a R y RStudio",
+    "section": "Info extra",
+    "text": "Info extra\n\nCómo descargar los slides¿Cómo abrir proyecto existente?\n\n\nComo las diapositivas son interactivas, optamos por guardarlas como HTML (no como PDF). Puedes descargar la diapositiva con la opción Guardar como al dar click derecho sobre esta.\n\n\n\n\n\n\n\nCuando quiera iniciar un proyecto existente de R, recuerde abrirlo a través del archivo del proyecto (extensión *.Rproj)."
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Clases, lecturas y videos",
+    "section": "",
+    "text": "Ver diapositivas en una nueva ventana\nLas diapositivas también están incrustadas en cada página. Puede hacer clic en las diapositivas y navegar por ellas con ← and →. Si escribe ? mientras ve las diapositivas, puede ver una lista de comandos específicos de diapositivas (como f para pantalla completa)."
+  },
+  {
+    "objectID": "example/index.html",
+    "href": "example/index.html",
+    "title": "Ejemplos de código",
+    "section": "",
+    "text": "Venga a esta sección después de terminar de revisar las clases. Contiene código en R completamente comentado y alguna que otra información complementaria. Será de mucha ayuda para resolver los problem set. También será de ayuda como plantillas que ustedes pueden reusar directamente o adaptar para futuros análisis de datos que realicen."
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html",
+    "title": "Mi primer documento quarto",
+    "section": "",
+    "text": "5 + 8\n3 * 23\n20 ^ 3\n73 / 5"
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html#hacer-cálculos-con-r",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html#hacer-cálculos-con-r",
+    "title": "Mi primer documento quarto",
+    "section": "Hacer cálculos con R",
+    "text": "Hacer cálculos con R\n\ncinco más ocho\n\n\n\nCódigo\n5 + 8\n\n\n[1] 13\n\n\n\ntres por veintitrés\n\n\n\nCódigo\n3 * 23\n\n\n[1] 69\n\n\n\nveinte elevado al cubo\n\n\n\nCódigo\n20 ^ 3\n\n\n[1] 8000\n\n\n\nsetenta y tres entre cinco\n\n\n\nCódigo\n73 / 5\n\n\n[1] 14.6"
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html#instalación-de-paquetes",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html#instalación-de-paquetes",
+    "title": "Mi primer documento quarto",
+    "section": "Instalación de paquetes:",
+    "text": "Instalación de paquetes:\n\n\nCódigo\n# install.packages(\"medicaldata\")\n# install.packages(\"tidyverse\")\n\n### Nota: Uno solo instala los paquetes la primera vez, luego es RECOMENDABLE comentarlos con el símbolo inicial #. Si no se hace esto, suelen aparecer mensajes de error.\n\n\nNota: Uno solo instala los paquetes la primera vez, luego es RECOMENDABLE comentarlos con el símbolo inicial #. Si no se hace esto, suelen aparecer mensajes de error."
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html#cargar-paquetes",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html#cargar-paquetes",
+    "title": "Mi primer documento quarto",
+    "section": "Cargar paquetes",
+    "text": "Cargar paquetes\n\n\nCódigo\nlibrary(medicaldata)\nlibrary(tidyverse)\n\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──\n\n\n✔ ggplot2 3.3.6     ✔ purrr   0.3.4\n✔ tibble  3.1.8     ✔ dplyr   1.0.9\n✔ tidyr   1.2.0     ✔ stringr 1.4.0\n✔ readr   2.1.2     ✔ forcats 0.5.1\n\n\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()"
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html#consultar-ayuda-de-filter",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html#consultar-ayuda-de-filter",
+    "title": "Mi primer documento quarto",
+    "section": "Consultar ayuda de filter()",
+    "text": "Consultar ayuda de filter()\n\n\nCódigo\n?filter\n\n\nstarting httpd help server ... done"
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html#cargar-base-de-datos-theoph-de-medicaldata",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html#cargar-base-de-datos-theoph-de-medicaldata",
+    "title": "Mi primer documento quarto",
+    "section": "Cargar base de datos theoph de medicaldata",
+    "text": "Cargar base de datos theoph de medicaldata\n\n\nCódigo\ndata(theoph)"
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html#seleccionar-columna-dose-de-datos-theoph",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html#seleccionar-columna-dose-de-datos-theoph",
+    "title": "Mi primer documento quarto",
+    "section": "Seleccionar columna Dose de datos theoph",
+    "text": "Seleccionar columna Dose de datos theoph\n\n\nCódigo\ntheoph$Dose\n\n\n  [1] 4.02 4.02 4.02 4.02 4.02 4.02 4.02 4.02 4.02 4.02 4.02 4.40 4.40 4.40 4.40\n [16] 4.40 4.40 4.40 4.40 4.40 4.40 4.40 4.53 4.53 4.53 4.53 4.53 4.53 4.53 4.53\n [31] 4.53 4.53 4.53 4.40 4.40 4.40 4.40 4.40 4.40 4.40 4.40 4.40 4.40 4.40 5.86\n [46] 5.86 5.86 5.86 5.86 5.86 5.86 5.86 5.86 5.86 5.86 4.00 4.00 4.00 4.00 4.00\n [61] 4.00 4.00 4.00 4.00 4.00 4.00 4.95 4.95 4.95 4.95 4.95 4.95 4.95 4.95 4.95\n [76] 4.95 4.95 4.53 4.53 4.53 4.53 4.53 4.53 4.53 4.53 4.53 4.53 4.53 3.10 3.10\n [91] 3.10 3.10 3.10 3.10 3.10 3.10 3.10 3.10 3.10 5.50 5.50 5.50 5.50 5.50 5.50\n[106] 5.50 5.50 5.50 5.50 5.50 4.92 4.92 4.92 4.92 4.92 4.92 4.92 4.92 4.92 4.92\n[121] 4.92 5.30 5.30 5.30 5.30 5.30 5.30 5.30 5.30 5.30 5.30 5.30"
+  },
+  {
+    "objectID": "example/mi_primer_proyecto/mi_primer_quarto.html#guardar-columna-seleccionada-en-dosis",
+    "href": "example/mi_primer_proyecto/mi_primer_quarto.html#guardar-columna-seleccionada-en-dosis",
+    "title": "Mi primer documento quarto",
+    "section": "Guardar columna seleccionada en dosis",
+    "text": "Guardar columna seleccionada en dosis\n\n\nCódigo\ndosis <- theoph$Dose"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción al software R para Ciencia de Datos en Salud",
+    "section": "",
+    "text": "Instructor\n\n   Percy Soto-Becerra, M.D., M.Sc(c)\n   Virtual: Vimeo & Google Meet\n   percys1991@gmail.com\n   psotob91\n   Agenda una reunión virtual\n\n\n\nDetalles del curso\n\n   Jueves y Viernes\n   11 al 12 de agosto\n   10:00 am a 12:00 pm\n   Sincrónico: Aula\n   Discord\n\n\n\nContáctame\nE-mail y Discord son las mejores formas de ponerse en contacto conmigo. Intentaré responder a todos los correos electrónicos relacionados con el curso y los mensajes de Discord dentro de las 24 horas (de verdad), pero también recuerde que la vida puede ser ajetreada y caótica para todos (¡incluido yo!), así que si no respondo enseguida, no te preocupes!"
+  },
+  {
+    "objectID": "resource/index.html",
+    "href": "resource/index.html",
+    "title": "Recursos adicionales",
+    "section": "",
+    "text": "En esta sección trataremos de incluir algunos recursos extras sobre R y RStudio que puedan ser de utilidad para ti."
+  },
+  {
+    "objectID": "resource/install.html",
+    "href": "resource/install.html",
+    "title": "Installing R, RStudio, tidyverse, and tinytex",
+    "section": "",
+    "text": "You will do all of your work in this class with the open source (and free!) programming language R. You will use RStudio as the main program to access R. Think of R as an engine and RStudio as a car dashboard—R handles all the calculations and the actual statistics, while RStudio provides a nice interface for running R code."
+  },
+  {
+    "objectID": "resource/install.html#rstudio.cloud",
+    "href": "resource/install.html#rstudio.cloud",
+    "title": "Installing R, RStudio, tidyverse, and tinytex",
+    "section": "RStudio.cloud",
+    "text": "RStudio.cloud\nR is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free RStudio.cloud service initially, which lets you run a full instance of RStudio in your web browser. This means you won’t have to install anything on your computer to get started with R! We will have a shared class workspace in RStudio.cloud that will let you quickly copy templates for labs and problem sets.\nGo to https://rstudio.cloud/ and create an account. You’ll receive a link to join the shared class workspace separately. If you don’t get this link, let me know and I will invite you."
+  },
+  {
+    "objectID": "resource/install.html#rstudio-on-your-computer",
+    "href": "resource/install.html#rstudio-on-your-computer",
+    "title": "Installing R, RStudio, tidyverse, and tinytex",
+    "section": "RStudio on your computer",
+    "text": "RStudio on your computer\nRStudio.cloud is convenient, but it can be slow and it is not designed to be able to handle larger datasets, more complicated analysis, or fancier graphics. Over the course of the semester, you should wean yourself off of RStudio.cloud and install all these things locally. This is also important if you want to customize fonts, since RStudio.cloud has extremely limited support for fonts other than Helvetica.\nHere’s how you install all these things\n\nInstall R\nFirst you need to install R itself (the engine).\n\nGo to the CRAN (Collective R Archive Network)1 website: https://cran.r-project.org/\nClick on “Download R for XXX”, where XXX is either Mac or Windows:\n::: {.cell} ::: {.cell-output-display}  ::: :::\n\nIf you use macOS, scroll down to the first .pkg file in the list of files (in this picture, it’s R-4.0.0.pkg; as of right now, the current version is also 4.0.0) and download it.\n::: {.cell} ::: {.cell-output-display}  ::: :::\nIf you use Windows, click “base” (or click on the bolded “install R for the first time” link) and download it.\n::: {.cell} ::: {.cell-output-display}  ::: :::\n\nDouble click on the downloaded file (check your Downloads folder). Click yes through all the prompts to install like any other program.\nIf you use macOS, download and install XQuartz. You do not need to do this on Windows.\n\n\n\nInstall RStudio\nNext, you need to install RStudio, the nicer graphical user interface (GUI) for R (the dashboard). Once R and RStudio are both installed, you can ignore R and only use RStudio. RStudio will use R automatically and you won’t ever have to interact with it directly.\n\nGo to the free download location on RStudio’s website: https://www.rstudio.com/products/rstudio/download/#download\nThe website should automatically detect your operating system (macOS or Windows) and show a big download button for it:\n::: {.cell} ::: {.cell-output-display}  ::: :::\nIf not, scroll down a little to the large table and choose the version of RStudio that matches your operating system.\n::: {.cell} ::: {.cell-output-display}  ::: :::\nDouble click on the downloaded file (again, check your Downloads folder). Click yes through all the prompts to install like any other program.\n\nDouble click on RStudio to run it (check your applications folder or start menu).\n\n\nInstall tidyverse\nR packages are easy to install with RStudio. Select the packages panel, click on “Install,” type the name of the package you want to install, and press enter.\n\n\n\n\n\nThis can sometimes be tedious when you’re installing lots of packages, though. The tidyverse, for instance, consists of dozens of packages (including ggplot2) that all work together. Rather than install each individually, you can install a single magical package and get them all at the same time.\nGo to the packages panel in RStudio, click on “Install,” type “tidyverse”, and press enter. You’ll see a bunch of output in the RStudio console as all the tidyverse packages are installed.\n\n\n\n\n\nNotice also that RStudio will generate a line of code for you and run it: install.packages(\"tidyverse\"). You can also just paste and run this instead of using the packages panel.\n\n\nInstall tinytex\nWhen you knit to PDF, R uses a special scientific typesetting program named LaTeX (pronounced “lay-tek” or “lah-tex”; for goofy nerdy reasons, the x is technically the “ch” sound in “Bach”, but most people just say it as “k”—saying “layteks” is frowned on for whatever reason).\nLaTeX is neat and makes pretty documents, but it’s a huge program—the macOS version, for instance, is nearly 4 GB! To make life easier, there’s an R package named tinytex that installs a minimal LaTeX program and that automatically deals with differences between macOS and Windows.\nHere’s how to install tinytex so you can knit to pretty PDFs:\n\nUse the Packages in panel in RStudio to install tinytex like you did above with tidyverse. Alternatively, run install.packages(\"tinytex\") in the console.\nRun tinytex::install_tinytex() in the console.\nWait for a bit while R downloads and installs everything you need.\nThe end! You should now be able to knit to PDF."
+  },
+  {
+    "objectID": "resource/manual_installR/install.html#instalando-r",
+    "href": "resource/manual_installR/install.html#instalando-r",
+    "title": "Instalación",
+    "section": "1. Instalando R",
+    "text": "1. Instalando R\n\nAntes de instalar R(v4.2.1), debemos ir al sitio web de CRAN para descargar el programa dando click en “Download R 4.2.1 for Windows”. \n\n\n\n\n\n\n\n\n\n\n\n \n\nUna vez descargado el programa, el primer paso es escoger el idioma del asistente de instalación de R.\n\n\n\n\n\n\n\n\n\n\n\n \n\nEscogido el idioma, para el segundo paso simplemente debemos dar click en “siguiente”.\n\n\n\n\n\n\n\n\n\n\n \n\nEn la siguiente ventana, el tercer paso consiste en elegir en qué carpeta se instalará R y sus dependencias. Si tenemos permisos de administrador en nuestro dispositivo, podemos dejar que R se instale en la carpeta por defecto (“program files”); sin embargo, si esto no es así (por ejemplo si no es nuestro dispositivo o compartimos su uso mediante distintos usuarios), lo más recomendable es elegir otra ubicación, por ejemplo “documentos”. Esto nos evitará problemas de accesos o permisos durante nuestra práctica diaria con R.\n\n\n\n\n\n\n\n\n\n\n\n \n\nA continuación, el cuarto paso consiste simplemente en dar click en “siguiente”.\n\n\n\n\n\n\n\n\n\n\n\n \n\nEn el quinto paso, nos preguntará si deseamos utilizar las opciones de configuración, recomendamos marcar “sí”.\n\n\n\n\n\n\n\n\n\n\n\n \n\nLuego, para el sexto paso seleccionamos MDI y damos click en “siguiente”.\n\n\n\n\n\n\n\n\n\n\n\n \n\nEn el séptimo paso elegimos ayuda HTML y damos click en “siguiente”.\n\n\n\n\n\n\n\n\n\n\n\n \n\nComo octavo paso, en las siguientes dos ventanas daremos click en “siguiente”, lo cual iniciará la instalación de R en nuestro dispositivo y, una vez termine, concluimos dando click en “finalizar”."
+  },
+  {
+    "objectID": "resource/manual_installR/install.html#instalando-rstudio",
+    "href": "resource/manual_installR/install.html#instalando-rstudio",
+    "title": "Instalación",
+    "section": "2. Instalando RStudio",
+    "text": "2. Instalando RStudio\n\nAl igual que en la sección anterior, para instalar la versión 2022.07.1+554. de nuestro IDE, primero vamos a la página oficial de Rstudio, escogemos la opción “Free” y damos click en “download RStudio for Windows”.\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\nUna vez descargado el programa, iniciamos el asistente de instalación dando click en “Siguiente”.\n\n\n\n\n\n\n\n\n\n\n\n \n\nEn la siguiente ventana nos preguntarán en qué carpeta deseamos instalar nuestro RStudio. Aquí es importante tener las mismas consideraciones que mencionamos en la primera sección: Si no tenemos acceso de administrador, es mejor escoger “Documentos”, de lo contrario, simplemente damos click en “siguiente” en esta ventana e “instalar” en la siguiente.\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\nTerminado el proceso de instalación, cerramos el asistente dando click en “Terminar”."
+  },
+  {
+    "objectID": "resource/manual_installR/install.html#instalando-rtools",
+    "href": "resource/manual_installR/install.html#instalando-rtools",
+    "title": "Instalación",
+    "section": "3. Instalando Rtools",
+    "text": "3. Instalando Rtools\nSolo se instala Rtools\n\nPor último, vamos a descargar Rtools 4.2 dando click en Rtools42 installer si y solo si tiene sistema operativo Windows. ¡Si tiene sistema operativo Mac o Linux (cualquier distro), no necesita instalar Rtools!\n\n\n\n\n\n\n\n\n\n\n\n \n\nUna vez descargado, iniciamos el asistente de instalación dando click en “next” en las siguientes dos ventanas.\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\nA continuación, iniciamos la instalación dando click en “install” y esperamos a que el proceso se complete. Finalmente, cerramos el asistente dando click en “finish”.\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n \n\nSi hemos realizado el proceso correctamente, podremos abrir nuestro RStudio y llegar a esta pantalla:\n\n\n\n\n\n\n\n\n\n\n\n \n\nSi desea más información sobre cómo instalar estos programas en Windows y/o MAC, visite la página oficial del proyecto R."
+  },
+  {
+    "objectID": "resource/manual_installR/install.html#sobre-mac-y-linux",
+    "href": "resource/manual_installR/install.html#sobre-mac-y-linux",
+    "title": "Instalación",
+    "section": "4. Sobre MAC y Linux",
+    "text": "4. Sobre MAC y Linux\n\nPara la instalación de R y Rstudio en otros sistemas operativos, como macOS y Linux, vamos a la página oficial de R project y seguimos las mismas indicaciones.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportante\n\n\n\n\n\nEn estos sistemas operativos no es necesario instalar Rtools, solo es necesario para Windows."
+  },
+  {
+    "objectID": "resource/manual_installR/install.html#recursos-adicionales",
+    "href": "resource/manual_installR/install.html#recursos-adicionales",
+    "title": "Instalación",
+    "section": "5. Recursos adicionales",
+    "text": "5. Recursos adicionales\nVideos de youtube recomendados:\n\n\n\n\n\n\n\n\n\n\nVideo de henryholder01\n\n \n\n\n\n\n\n\n\n\n\n\nVideo de Renzo Caceres Rossi\n\n \n\n\n\n\n\n\n\n\n\n\nVideo de Roger Miranda\n\n \n\n\n\n\n\n\n\n\n\n\nVideo de R Epidemics Consortium (RECON)\n\n \nManuales disponibles en la web:\n\n\nManual de Alessio Bocco\nManual de Giorgio Boccardo Bosoni y Felipe Ruiz Bruzzone\nManual del libro “Hands-On Programming with R”\nManual de Antoine Soetewey\n\n\n   ___  Este manual fue elaborado por:  Anthony Romero Cerdán (anthony.romeromh@gmail.com)  \n\n\n\n\n\n\n\n\n\n Búscanos en:"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Cronograma",
+    "section": "",
+    "text": "¡Aquí encontrará la hoja de ruta para el curso!\n\nContenido (): Esta página contiene las clases, diapositivas y conferencias grabadas de la semana.\nEjemplos (): Esta página contiene código R completamente anotado e información complementaria que puede usar como referencia para sus tareas. Esta es solo una página referencial, no necesariamente tiene que hacer nada aquí.\nTarea (): Esta página contiene las instrucciones para cada tarea extra. Estas tareas extras son opcionales. Si acepta hacerlas, deben entregarse de acuerdo con la fecha prevista. A los dos alumnos con la mejor nota, se les dará una beca completa para la segunda edición del curso virtual: R para Ciencia de Datos en Salud 3 Análisis Descriptivo e Inferencia Estadística https://rcds3.inkastats.es/. La segunda edición iniciará en dos semanas y será híbrido (teorías/prácticas asincrónicas + talleres sincrónicos opcionales).\n\n\n\n\n\n\n\n\n\n\nTítulo\n\n\nContenido\n\n\nEjemplo\n\n\nTarea\n\n\n\n\n\n\nSesión 1\n\n\n\n\n11/08/2022\n\n\nIntroducción a R y Rstudio\n\n\n\n\n\n\n\n\n\n\n\n\n\nSesión 2\n\n\n\n\n11/08/2022\n\n\nVisualización de datos con ggplot2\n\n\n\n\n\n\n\n\n\n\n\n\n\nTarea extra\n\n\n\n\n11/08/2022–21/08/2022\n\n\nProblem Set 1  (enviar antes de 11:59 p. m.)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTítulo\n\n\nContenido\n\n\nEjemplo\n\n\nTarea\n\n\n\n\n\n\nTarea extra\n\n\n\n\n12/08/2022\n\n\nManejo de datos con tidyverse\n\n\n\n\n\n\n\n\n\n\n\n\n\nSesión 3\n\n\n\n\n12/08/2022\n\n\nAnáisis exploratorio de datos\n\n\n\n\n\n\n\n\n\n\n\n\n\nSesión 4\n\n\n\n\n12/08/2022–21/08/2022\n\n\nProblem Set 2  (enviar antes de 11:59 p. m.)"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Percy Soto-Becerra, M.D., M.Sc(c)\n   Virtual: Vimeo & Google Meet\n   percys1991@gmail.com\n   psotob91\n   Schedule an appointment\n\n\n\n\n\n   Jueves y Viernes\n   11 al 12 de agosto\n   10:00 am a 12:00 pm\n   Sincrónico: Aula\n   Discord"
+  },
+  {
+    "objectID": "syllabus.html#objetivos-del-curso",
+    "href": "syllabus.html#objetivos-del-curso",
+    "title": "Syllabus",
+    "section": "Objetivos del curso",
+    "text": "Objetivos del curso\nAl finalizar este curso, el participante tendrá la capacidad de escribir código R con estilo tidyverse, mediante flujos de trabajo reproducibles, para visualizar y hacer análisis exploratorio de datos."
+  },
+  {
+    "objectID": "syllabus.html#presentación-del-curso",
+    "href": "syllabus.html#presentación-del-curso",
+    "title": "Syllabus",
+    "section": "Presentación del curso",
+    "text": "Presentación del curso\nBienvenidos al minicurso corto “Introducción al software R para Ciencia de Datos en Salud”, el cual fue posible gracias a la iniciativa y empuje de la comisión organizadora del XXXVI CCN Huancayo a través de SOCIMEP 2022. Este curso es muy introductorio. Su finalidad es que ustedes conozcan R, aprendan algunos aspectos muy básicos de su uso y entiendan las potencialidades que el R para el análisis de datos en salud."
+  },
+  {
+    "objectID": "syllabus.html#por-qué-r-y-rstudio",
+    "href": "syllabus.html#por-qué-r-y-rstudio",
+    "title": "Syllabus",
+    "section": "¿Por qué R y RStudio?",
+    "text": "¿Por qué R y RStudio?\nEl software R es un lenguaje de programación de acceso libre e ideal como entorno para el análisis estadístico y gráfico, reporte, presentación de datos, etc., lo que lo convierte en una de las opciones líderes a nivel mundial para la Ciencia de Datos en Salud. En la última década ha ocurrido una revolución en la computación estadística. Lenguajes de código abierto como R y Python han superado a programas propietarios más antiguos y costosos como SAS, Stata y SPSS. Asimismo, la literatura (libros, blogs, foros de ayuda, etc.) acerca de R es extensa en comparación con la de otros programas, por lo que resulta más fácil encontrar soluciones a problemas (relativamente complejos) con los que los usuarios a menudo se enfrentan.\nAsimismo, R tiene varios dialectos, todos los cuales tienen fortalezas y debilidades. Ciertamente, ser fluido en R implica manejar más de un dialecto si no todos. Sin embargo, el dialecto de tiyverse es probablemente uno de los más consistentes, completos y en constante desarrollo y mantención, por lo que es uno de los más rentables de aprender cuando se trata de R. Este curso abordará principalmente el estilo R tidy, aunque también hará uso del dialecto de R base y otros dialectos cuando sea propicio.\nPor otro lado, R Studio es una interfaz que permite una mejor comunicación eentre el usuario y R. Piense en R como el motor de un automóvil y en R Studio como el tablero de mando del automóvil: R hace el trabajo duro al calcular y aplicar los métodos estadísticos, mientras que R Studio es la interfaz amigable que permite ejecutar código de R."
+  },
+  {
+    "objectID": "syllabus.html#aviso-de-servicio-público",
+    "href": "syllabus.html#aviso-de-servicio-público",
+    "title": "Syllabus",
+    "section": "Aviso de servicio público",
+    "text": "Aviso de servicio público\nSi ya has usado R previamente, este curso será muy fácil para ti. Si no lo has usado nunca, aprender R puede que sea un poco menos fácil, pero prometo que solo al inicio. Como todo nuevo idioma comenzarás a ganar fluidez conforme hables más ‘R-ñol’: la práctica hace al maestro. Felizmenete, el dialecto tidy es muy fluido y fácil de entender y es por eso que lo hemos elegido.\nComo lo resalta Andrew Heiss en la web de su curso Program Evaluation, Hadley Wickham, científico de datos creador de tidyverse y fundador de RStudio una vez dijo:\n\nCuando comienzas a programar, es fácil frustrarte mucho y pensar: “Oh, soy yo, soy realmente estúpido” o “No estoy hecho para programar”. Pero, ese no es el caso en absoluto. Todo el mundo se frustra. Todavía me frustro ocasionalmente cuando escribo código R. Es solo una parte natural de la programación. Entonces, sucede a todos y se vuelve cada vez menos frecuente con el tiempo. No te culpes. Solo tómate un descanso, haz algo divertido y luego regresa e inténtalo de nuevo más tarde.\n\nIncluso analistas de datos con experiencia sufren cuando encuentran errores que se resiten a resolverse. Andrew Heiss cita un popular meme de un tweet para resumir este ubicuo problema:\n\nSi te toma demasiado tiempo pensar infructuosamente, mejor tómate un descanso, conversa con tus compañeros de clase, consúltame por correo, programa una reunión virtual, entre otras opciones.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlison Horst: Gator error"
+  },
+  {
+    "objectID": "syllabus.html#público-objetivo",
+    "href": "syllabus.html#público-objetivo",
+    "title": "Syllabus",
+    "section": "Público objetivo",
+    "text": "Público objetivo\nEstudiantes de medicina humana u otros asistentes al XXXVI CCN Huancayo organizado por SOCIMEP 2022."
+  },
+  {
+    "objectID": "syllabus.html#materiales-del-curso",
+    "href": "syllabus.html#materiales-del-curso",
+    "title": "Syllabus",
+    "section": "Materiales del curso",
+    "text": "Materiales del curso\nTodos materiales en este curso son libres. Eres libre de compartirlos y reutilizarlos en tus propias clases siempre y cuando cites la fuente.\n\nLibros\nHay algunos libros que usaremos constantemente para este curso. Todos están disponibles digitalmente y son libres. La lista a continuación:\nLibros de bioestadística o ciencia de datos en salud\n\nBatra, Neale, et al. The Epidemiologist R Handbook. 2021. https://epirhandbook.com/en/index.html (Libre como versión HTML!)\nBrad Cannell, Melvin Livingston. R for Epidemiology.https://www.r4epi.com/(Libre como versión HTML!)\nEwen Harrison and Riinu Pius. R for Health Data Science. 2021. https://argoshare.is.ed.ac.uk/healthyr_book/(Libre como versión HTML!, pero hay una versión impresa por $63.96 en Routledge)\nPeter D.R. Higgins. Reproducible Medical Research with R. 2022.https://bookdown.org/pdr_higgins/rmrwr/(Libre como versión HTML!)\nKamarul Imran, Wan Nor Arifin, Tengku Muhammad Hanis Tengku Mukhtar. Data Analysis in Medicine and Health using R. 2022. https://bookdown.org/drki_musa/dataanalysis/ (Libre como versión HTML!)\nJames Brophy. (Mostly Clinical) Epidemiology with R. 2021. https://bookdown.org/jbrophy115/bookdown-clinepi/(Libre como versión HTML!)\n\nLibros de ciencia de datos o estadística general\n\nChester Ismay and Albert Y. Kim. Statistical Inference via Data Science: A ModernDive into R and the Tidyverse! 2022 https://moderndive.com/index.html(Libre como versión HTML!, pero hay una versión impresa por $57.25 en Amazon)\nHadley Wickham & Garrett Grolemund. R for Data Sciencehttps://r4ds.had.co.nz/index.html(Libre como versión HTML!, pero hay una versión impresa por $18.99 a 46.74 en Amazon)\n\n\n\nAyuda en línea\nEs posible que durante su aprendizaje de R y, luego, durante su uso continuo, enfrente varios problemas. Las Ciencias de Datos pueden llegar a ser realmente complejas, por lo que un poco de ayuda externa más experta podría ser necesaria.\nFelizmente, existe una inmensa comunidad en línea de usuarios de R, quienes continuamente intercambian soluciones. Es muy probable que tu problema ya haya sido resuelto antes y que su solución se encuentre en la web, solo tienes que saber dónde buscarla.\nDos de los más importantes sitios donde puedes buscar soluciones a tus problemas o consultar directamente son StackOverflow (un foro de preguntas y respuestas con cientos de miles de respuestas a todo tipo de preguntas sobre programación) y RStudio Community (un foro diseñado específicamente para personas que usan RStudio y tidyverse).\nSi usa Twitter, publique preguntas y contenido relacionados con R usnado #rstats. La comunidad allí es excepcionalmente generosa y servicial.\nBuscar soluciones en Google también es una buena opción, pero es un poco truculento si no sabes cómo hacerlo. Es mejor buscar en inglés, aunque también abunda información en español. Unos ejemplos de cómo buscar en Google podrían ser:\n\npropensity score matching r\n\no, si Google no reconoce a la letra r como el programa estadístico (¡pasa a veces!), puedes usar:\n\npropensity score matching rstats\n\nPor último, si sus consultas son especializadas en Ciencia de datos en Salud o Bioestadística, es probable que los foros mencionados no sean de ayuda. El foro Dathamethods es una buena plataforma para hacer este tipo de consultas. Esta plataforma es liderada por bioestadísticos y científicos de datos com amplia trayectoria en investigación clínico-epidemiológica. Frank Harrell, Bioestadístico asesor de la FDA, reconocido ‘trialista’ y experto en predicción clínica, es quien lidera esta plataforma y ha juntado una buena comunidad de bioestadísticos y científicos de datos siniors. Sugerimos se creen una cuenta y usen esta plataforma más a menudo.\nSi usas twitter, puedes consultar utilizando el hastagg #epitwitter, #MedStats. También puede ser de gran ayuda uniter al grupo de twitter Medical statistics: ‘A non comprhensive list of medical statisticians and methodologist’ creada por (MaartenvSmeden?)."
+  },
+  {
+    "objectID": "syllabus.html#estructura-del-curso",
+    "href": "syllabus.html#estructura-del-curso",
+    "title": "Syllabus",
+    "section": "Estructura del curso",
+    "text": "Estructura del curso\nEste curso es presencial y reservado para los participantes del XXXVI CCN Huancayo - SOCIMEP 2022 que se inscribieron previamente."
+  },
+  {
+    "objectID": "syllabus.html#asistencia-participación-y-calificación",
+    "href": "syllabus.html#asistencia-participación-y-calificación",
+    "title": "Syllabus",
+    "section": "Asistencia, participación y calificación",
+    "text": "Asistencia, participación y calificación\nSe espera que los alumnos asistan al 100% de las clases presenciales. La asistencia y verificación de requisitos del curso será realizada por la comitiva del CCN encargada de coordinar el curso.\nAdicionalmente, les he propuesto 2 problem set, los cuales son de carácter individual y completamente opcionales. Sugiero los realicen para que puedan afianzar las competencias adquiridas durante el corto tiempo del minicurso. Para motivarlos, a los dos alumnos con las notas más altas se les dará una beca completa para la segunda edición del curso R para Ciencia de Datos en Salud: Análisis Descriptivo e Inferencia Estadística. Puedes ver la primera edición para que veas de que tratará este curso: https://rcds3.inkastats.es/."
+  },
+  {
+    "objectID": "syllabus.html#políticas-del-curso",
+    "href": "syllabus.html#políticas-del-curso",
+    "title": "Syllabus",
+    "section": "Políticas del curso",
+    "text": "Políticas del curso\nEl presente curso tiene el siguiente código de honor:\n\nSus respuestas a tareas, cuestionarios y exámenes deben ser su propio trabajo (excepto las tareas que permitan explícitamente la colaboración).\nNo puede compartir sus soluciones a la tarea, cuestionarios o exámenes con nadie más a menos que lo permita explícitamente las instrucciones de la actividad. Esto incluye todo lo escrito por usted, así como cualquier solución oficial proporcionada por el personal del curso.\nNo puede participar en ninguna otra actividad que deshonestamente mejore sus resultados o deshonestamente mejore o perjudique los resultados de otros.\n\nAsimismo, si bien el syllabus refleja el plan del curso, algunas desviaciones a este podrían tornarse necesarias para alcanzar las metas propuestas."
+  },
+  {
+    "objectID": "syllabus.html#tareas-y-calificaciones",
+    "href": "syllabus.html#tareas-y-calificaciones",
+    "title": "Syllabus",
+    "section": "Tareas y calificaciones",
+    "text": "Tareas y calificaciones\nPuedes encontrar las descripciones de todos los problem sets en la página de tareas.\n\n\n\n\n\n\n\n\n\nTarea\nPuntos\nPorcentaje\n\n\n\n\nProblem sets (2 × 9)\n18\n90%\n\n\nAsistencia curso presencial(2 * 1)\n2\n10%\n\n\nTotal\n20\n—\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNota\nRango\nNota\nRango\n\n\n\n\nA\n93–100%\nC\n73–76%\n\n\nA−\n90–92%\nC−\n70–72%\n\n\nB+\n87–89%\nD+\n67–69%\n\n\nB\n83–86%\nD\n63–66%\n\n\nB−\n80–82%\nD−\n60–62%\n\n\nC+\n77–79%\nF\n< 60%"
+  }
+]

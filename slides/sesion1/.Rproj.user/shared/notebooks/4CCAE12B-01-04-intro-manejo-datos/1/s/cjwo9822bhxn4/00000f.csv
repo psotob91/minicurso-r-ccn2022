@@ -1,0 +1,17 @@
+"0","glimpse(covid_testing)"
+"1","Rows: 15,524"
+"1",""
+"1","
+"
+"1","Columns: 5"
+"1",""
+"1","
+"
+"1","$ subject_id      [3m[38;5;246m<dbl>[39m[23m 1412, 533, 9134, 8518, 8967, 11048…
+$ fake_first_name [3m[38;5;246m<chr>[39m[23m ""jhezane"", ""penny"", ""grunt"", ""meli…
+$ fake_last_name  [3m[38;5;246m<chr>[39m[23m ""westerling"", ""targaryen"", ""rivers…
+$ gender          [3m[38;5;246m<chr>[39m[23m ""female"", ""female"", ""male"", ""femal…
+$ pan_day         [3m[38;5;246m<dbl>[39m[23m 4, 7, 7, 8, 8, 8, 9, 9, 9, 9, 9, 9…"
+"1",""
+"1","
+"

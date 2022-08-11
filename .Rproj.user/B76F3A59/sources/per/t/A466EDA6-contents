@@ -1,0 +1,136 @@
+---
+title: "<FONT color='#A7D5E8'>Sesión 2: Visualización de datos con ggplot2</FONT>"
+subtitle: "<FONT color='#E9AFA3' size='10'>Curso: Introducción al software R para Ciencia de Datos en Salud <br> XXXVI CCN Huancayo - SOCIMEP 2022</FONT>"
+author: "<FONT color='#FFFFFF' size='30'>Percy Soto-Becerra M.D., M.Sc(c)</FONT>"
+institute: "<FONT color='#FFFFFF' size='5'>Investigador Externo, Universidad Continental, Huancayo<br>@github/psotob91</FONT>"
+date: "<FONT color='#FFFFFF' size='6'>Agosto 11, 2022</FONT>"
+
+format: 
+  revealjs:
+    self-contained: true
+    theme: [simple, theme/theme.scss]
+    footer: "Introducción a R y RStudio"
+    slide-number: c/t
+    logo: img/logo.png
+    width: 1920
+    height: 1080
+    highlight-style: ayu-dark
+    self-contained-math: true
+from: markdown+emoji
+execute:
+  echo: true
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(fontawesome)
+library(tidyverse)
+library(quarto)
+library(gt)
+library(gtExtras)
+library(gtsummary)
+library(showtext)
+library(kableExtra)
+
+## Ver QUARTO RSTUDIO CONFERENCE: https://github.com/rstudio-conf-2022/get-started-quarto/blob/main/materials/02-authoring.qmd
+## 
+## blackboard theme: https://github.com/schochastics/quarto-blackboard-theme
+## 
+## https://github.com/schochastics/xaringan-themes
+```
+
+--- 
+
+# Visualización de datos
+
+---
+
+## Visualización de datos
+
+---
+
+## {ggplot2} es un paquete de {tidyverse}
+
+---
+
+## Gramática de gráficos
+
+--- 
+
+# Primeros pasos con gplot2
+
+---
+
+## Aspectos básicos de ggplot2
+
+--- 
+
+## Datos: gapminder
+
+--- 
+
+## Código paso a paso
+
+---
+
+## Nombre de argumentos
+
+--- 
+
+# Eséticas
+
+--- 
+
+## Opciones de estéticas
+
+--- 
+
+## Color
+
+--- 
+
+## Forma
+
+---
+
+## Tamaño 
+
+---
+
+## Alfa 
+
+--- 
+
+## Mapping vs. Setting
+
+---
+
+# Faceting
+
+---
+
+## Faceting
+
+--- 
+
+## Varias formas de faceting
+
+--- 
+
+## Faceting summary
+
+---
+
+# X
+
+--- 
+
+<br/><br/><br/><br/><br/>
+<center>[Preguntas?]{.big-text6}</center>
+
+--- 
+
+<br/><br/><br/><br/><br/>
+<center>[Muchas gracias!]{.big-text6}</center>
+

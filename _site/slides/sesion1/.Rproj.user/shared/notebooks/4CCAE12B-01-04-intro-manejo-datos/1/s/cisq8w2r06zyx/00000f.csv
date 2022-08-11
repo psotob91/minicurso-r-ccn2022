@@ -1,0 +1,29 @@
+"0","glimpse(covid_testing)"
+"1","Rows: 15,524"
+"1",""
+"1","
+"
+"1","Columns: 17"
+"1",""
+"1","
+"
+"1","$ subject_id      [3m[38;5;246m<dbl>[39m[23m 1412, 533, 9134, 8518, …
+$ fake_first_name [3m[38;5;246m<chr>[39m[23m ""jhezane"", ""penny"", ""gr…
+$ fake_last_name  [3m[38;5;246m<chr>[39m[23m ""westerling"", ""targarye…
+$ gender          [3m[38;5;246m<chr>[39m[23m ""female"", ""female"", ""ma…
+$ pan_day         [3m[38;5;246m<dbl>[39m[23m 4, 7, 7, 8, 8, 8, 9, 9,…
+$ test_id         [3m[38;5;246m<chr>[39m[23m ""covid"", ""covid"", ""covi…
+$ clinic_name     [3m[38;5;246m<chr>[39m[23m ""inpatient ward a"", ""cl…
+$ result          [3m[38;5;246m<chr>[39m[23m ""negative"", ""negative"",…
+$ demo_group      [3m[38;5;246m<chr>[39m[23m ""patient"", ""patient"", ""…
+$ age             [3m[38;5;246m<dbl>[39m[23m 0.0, 0.0, 0.8, 0.8, 0.8…
+$ drive_thru_ind  [3m[38;5;246m<dbl>[39m[23m 0, 1, 1, 1, 0, 0, 1, 0,…
+$ ct_result       [3m[38;5;246m<dbl>[39m[23m 45, 45, 45, 45, 45, 45,…
+$ orderset        [3m[38;5;246m<dbl>[39m[23m 0, 0, 1, 1, 1, 0, 1, 1,…
+$ payor_group     [3m[38;5;246m<chr>[39m[23m ""government"", ""commerci…
+$ patient_class   [3m[38;5;246m<chr>[39m[23m ""inpatient"", ""not appli…
+$ col_rec_tat     [3m[38;5;246m<dbl>[39m[23m 1.4, 2.3, 7.3, 5.8, 1.2…
+$ rec_ver_tat     [3m[38;5;246m<dbl>[39m[23m 5.2, 5.8, 4.7, 5.0, 6.4…"
+"1",""
+"1","
+"

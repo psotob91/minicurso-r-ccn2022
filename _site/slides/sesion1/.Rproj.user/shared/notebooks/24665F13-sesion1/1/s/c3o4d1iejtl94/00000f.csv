@@ -1,0 +1,7 @@
+"0","#| echo: false"
+"0","tipo_vector <- data.frame("
+"0","  tipo = c(""Entero"", ""Doble"", ""Caracter"", ""Lógicos"", ""Factor""), "
+"0","  tipo_ingles = c(""Integer"", ""Double"", ""Character"", ""Logical"", ""Factor""), "
+"0","  desc = c(""Solo números enteros"", ""Números"", ""Texto o cadenas ('strings')"", ""Verdadero o Falso"", ""Categorías""), "
+"0","  ejem = c(""c(1, 2, 3, 4)"", ""c(1, 2.4, 3.14, 4)"", ""c('1', 'azul', 'divertido', 'monstruo')"", ""c(TRUE, FALSE, TRUE, FALSE)"", ""c('Muy intenso', 'Leve', 'Moderado', 'Leve')"")"
+"0",")"

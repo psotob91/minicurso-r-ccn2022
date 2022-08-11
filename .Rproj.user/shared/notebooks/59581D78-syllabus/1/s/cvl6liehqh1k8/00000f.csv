@@ -1,0 +1,20 @@
+"0","assignments_total <- tibble(Tarea = ""Total"","
+"0","                            Puntos = sum(assignments$Puntos),"
+"0","                            Porcentaje = NA)"
+"0",""
+"0","bind_rows(assignments, assignments_total) %>%"
+"0","  select(Tarea, Puntos, Porcentaje) %>%"
+"0","  pandoc.table(justify = ""lcc"", missing = ""—"")"
+"1","
+-----------------------------------------------------
+Tarea                            Puntos   Porcentaje 
+------------------------------- -------- ------------
+Problem sets (2 × 10)              15        60%     
+
+Asistencia curso presencial(2      10        40%     
+* 2.5)                                               
+
+Total                              25         —      
+-----------------------------------------------------
+
+"

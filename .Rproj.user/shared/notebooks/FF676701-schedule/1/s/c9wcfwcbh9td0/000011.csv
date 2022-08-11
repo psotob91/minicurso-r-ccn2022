@@ -1,0 +1,85 @@
+"0","walk(seq(1, nrow(schedule_nested)), ~show_table(.x))"
+"1","
+
+### Intro al uso de R 
+
+"
+"1","<table class=""schedule-table table"" style=""margin-left: auto; margin-right: auto;"">
+ <thead>
+  <tr>
+   <th style=""text-align:right;"">   </th>
+   <th style=""text-align:left;""> Título </th>
+   <th style=""text-align:center;""> Contenido </th>
+   <th style=""text-align:center;""> Ejemplo </th>
+   <th style=""text-align:center;""> Tarea </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr grouplength=""1""><td colspan=""5"" style=""border-bottom: 2px solid #000000;""><strong>Sesión 1</strong></td></tr>
+<tr>
+   <td style=""text-align:right;width: 20%; padding-right: 20px;padding-left: 2em;"" indentlevel=""1""> <strong>11/08/2022</strong> </td>
+   <td style=""text-align:left;width: 50%; ""> <span class=""content-title"">Introducción a R y Rstudio</span> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""content/01-content.qmd""><i class=""fa-solid fa-book-open-reader fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""example/01-example.qmd""><i class=""fa-solid fa-laptop-code fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-pen-ruler fa-lg""></i></font> </td>
+  </tr>
+  <tr grouplength=""1""><td colspan=""5"" style=""border-bottom: 2px solid #000000;""><strong>Sesión 2</strong></td></tr>
+<tr>
+   <td style=""text-align:right;width: 20%; padding-right: 20px;padding-left: 2em;"" indentlevel=""1""> <strong>11/08/2022</strong> </td>
+   <td style=""text-align:left;width: 50%; ""> <span class=""content-title"">Visualización de datos con ggplot2</span> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""content/02-content.qmd""><i class=""fa-solid fa-book-open-reader fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""example/02-example.qmd""><i class=""fa-solid fa-laptop-code fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-pen-ruler fa-lg""></i></font> </td>
+  </tr>
+  <tr grouplength=""1""><td colspan=""5"" style=""border-bottom: 2px solid #000000;""><strong>Tarea extra</strong></td></tr>
+<tr>
+   <td style=""text-align:right;width: 20%; padding-right: 20px;padding-left: 2em;"" indentlevel=""1""> <strong>11/08/2022</strong>–<strong>21/08/2022</strong> </td>
+   <td style=""text-align:left;width: 50%; ""> Problem Set 1  <small>(enviar antes de 11:59 p. m.)</small> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-book-open-reader fa-lg""></i></font> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-laptop-code fa-lg""></i></font> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""assignment/01-problem-set.qmd""><i class=""fa-solid fa-pen-ruler fa-lg""></i></a> </td>
+  </tr>
+</tbody>
+</table>"
+"1","
+
+### Manejo y análisis de datos 
+
+"
+"1","<table class=""schedule-table table"" style=""margin-left: auto; margin-right: auto;"">
+ <thead>
+  <tr>
+   <th style=""text-align:right;"">   </th>
+   <th style=""text-align:left;""> Título </th>
+   <th style=""text-align:center;""> Contenido </th>
+   <th style=""text-align:center;""> Ejemplo </th>
+   <th style=""text-align:center;""> Tarea </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr grouplength=""1""><td colspan=""5"" style=""border-bottom: 2px solid #000000;""><strong>Tarea extra</strong></td></tr>
+<tr>
+   <td style=""text-align:right;width: 20%; padding-right: 20px;padding-left: 2em;"" indentlevel=""1""> <strong>12/08/2022</strong> </td>
+   <td style=""text-align:left;width: 50%; ""> <span class=""content-title"">Manejo de datos con tidyverse</span> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""content/04-content.qmd""><i class=""fa-solid fa-book-open-reader fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""example/03-example.qmd""><i class=""fa-solid fa-laptop-code fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-pen-ruler fa-lg""></i></font> </td>
+  </tr>
+  <tr grouplength=""1""><td colspan=""5"" style=""border-bottom: 2px solid #000000;""><strong>Sesión 3</strong></td></tr>
+<tr>
+   <td style=""text-align:right;width: 20%; padding-right: 20px;padding-left: 2em;"" indentlevel=""1""> <strong>12/08/2022</strong> </td>
+   <td style=""text-align:left;width: 50%; ""> <span class=""content-title"">Anáisis exploratorio de datos</span> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""content/05-content.qmd""><i class=""fa-solid fa-book-open-reader fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""example/02-example.qmd""><i class=""fa-solid fa-laptop-code fa-lg""></i></a> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-pen-ruler fa-lg""></i></font> </td>
+  </tr>
+  <tr grouplength=""1""><td colspan=""5"" style=""border-bottom: 2px solid #000000;""><strong>Sesión 4</strong></td></tr>
+<tr>
+   <td style=""text-align:right;width: 20%; padding-right: 20px;padding-left: 2em;"" indentlevel=""1""> <strong>12/08/2022</strong>–<strong>21/08/2022</strong> </td>
+   <td style=""text-align:left;width: 50%; ""> Problem Set 2  <small>(enviar antes de 11:59 p. m.)</small> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-book-open-reader fa-lg""></i></font> </td>
+   <td style=""text-align:center;width: 10%; ""> <font color=""#e9ecef""><i class=""fa-solid fa-laptop-code fa-lg""></i></font> </td>
+   <td style=""text-align:center;width: 10%; ""> <a href=""assignment/02-problem-set.qmd""><i class=""fa-solid fa-pen-ruler fa-lg""></i></a> </td>
+  </tr>
+</tbody>
+</table>"

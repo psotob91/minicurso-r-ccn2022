@@ -1,0 +1,44 @@
+"0","install.packages(""medicaldata"")"
+"2","Installing package into ‘C:/Users/Lenovo/AppData/Local/R/win-library/4.2’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/medicaldata_0.2.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 669717 bytes (654 KB)
+"
+"2","downloaded 654 KB
+
+"
+"1","package ‘medicaldata’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Lenovo\AppData\Local\Temp\RtmpE15hbA\downloaded_packages"
+"1",""
+"1","
+"
+"0","install.packages(""tidyverse"")"
+"2","Installing package into ‘C:/Users/Lenovo/AppData/Local/R/win-library/4.2’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.2/tidyverse_1.3.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 428977 bytes (418 KB)
+"
+"2","downloaded 418 KB
+
+"
+"1","package ‘tidyverse’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Lenovo\AppData\Local\Temp\RtmpE15hbA\downloaded_packages"
+"1",""
+"1","
+"

@@ -1,0 +1,2 @@
+"0","datos_sav <- import(""RECH0.sav"")"
+"0","head(datos_sav)"

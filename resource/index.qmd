@@ -1,0 +1,5 @@
+---
+title: "Recursos adicionales"
+---
+
+En esta sección trataremos de incluir algunos recursos extras sobre R y RStudio que puedan ser de utilidad para ti.

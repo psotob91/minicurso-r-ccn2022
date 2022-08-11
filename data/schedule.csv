@@ -1,0 +1,7 @@
+group;subgroup;date;date_end;title;deadline;content;example;assignment
+Intro al uso de R;Sesión 1;11/08/2022;;Introducción a R y Rstudio;;content/01-content;example/01-example;
+Intro al uso de R;Sesión 2;11/08/2022;;Visualización de datos con ggplot2;;content/02-content;example/02-example;
+Intro al uso de R;Tarea extra;11/08/2022;21/08/2022;Problem Set 1;11:59 p. m.;;;assignment/01-problem-set
+Manejo y análisis de datos;Sesión 3;12/08/2022;;Manejo de datos con tidyverse;;content/04-content;example/03-example;
+Manejo y análisis de datos;Sesión 4;12/08/2022;;Anáisis exploratorio de datos;;content/05-content;example/02-example;
+Manejo y análisis de datos;Tarea extra;12/08/2022;21/08/2022;Problem Set 2;11:59 p. m.;;;assignment/02-problem-set

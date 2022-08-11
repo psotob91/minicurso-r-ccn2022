@@ -1,0 +1,15 @@
+---
+title: "Tareas"
+---
+
+Los problem set son opcionales y su objetivo es que ustedes puedan afianzar las competencias ganadas durante el minicurso. Recuerden que a los dos alumnos con las notas más altas se les dará una beca completa para la segunda edición del curso **R para Ciencia de Datos en Salud: Análisis Descriptivo e Inferencia Estadística**. Puedes ver la primera edición para que veas de que tratará este curso: <https://rcds3.inkastats.es/>.
+
+## Problem sets
+
+Deberá demostrar que hizo un esfuerzo consciente para resolver cada pregunta. 
+
+- ✔+: (*20 puntos*) La tarea está 100% completa. Todas las preguntas fueron  respondidas, y la mayoría de las respuestas son correctas. El documento es limpio y fácil de seguir. El trabajo es excepcional. A menudo no asignaré este puntaje.
+- ✔: (*18 puntos*) La tarea está completa en un 70–99 % y la mayoría de las respuestas son correctas. **Este es el nivel de rendimiento esperado.**
+- ✔−: (*13 puntos*) La tarea está completa en menos del 70 % y/o la mayoría de las respuestas son incorrectas. Esto indica que necesita mejorar la próxima vez. Espero no asignarlos a menudo.
+
+Pueden (¡y deben!) trabajar juntos en los conjuntos de problemas, pero *deben entregar sus propias respuestas.* No pueden trabajar en grupos de más de **cuatro** personas, y deben indicar quién participó en el grupo en tu tarea
