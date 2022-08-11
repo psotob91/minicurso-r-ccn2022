@@ -26,7 +26,6 @@ execute:
 #| include: false
 library(fontawesome)
 library(tidyverse)
-library(quarto)
 library(gt)
 library(gtExtras)
 library(gtsummary)
@@ -104,20 +103,74 @@ knitr::include_graphics("img/grammar-of-graphics.png")
 
 --- 
 
-# Primeros pasos con gplot2
+# Primeros pasos con ggplot2
 
 ---
 
 ## Aspectos básicos de ggplot2
 
+<br/>
+
+- Estructura de código para generar gráficos en ggplot2
+
+```r
+ggplot(data = [dataset], 
+       mapping = aes(x = [x-variable], 
+                     y = [y-variable])) +
+   geom_xxx() +
+   other options
+```
+
 --- 
 
 ## Datos: gapminder
 
+- Data disponible en paquete {dslabs}.
+
+<br/>
+
+```{r}
+library(dslabs)
+data(gapminder, package = "dslabs") 
+```
+
+<br/>
+
+- Veamos un resmen de estos datos:
+
+```{r}
+head(gapminder)
+```
+
+<br/>
+
+- Veamos el detalle
+
+```r
+?gapminder
+```
+
 --- 
 
-## Código paso a paso
+# Código paso a paso
 
+## {auto-animate="true"}
+
+>Inicia con el data.frame [gapminder]{.plo}
+
+```r
+ggplot(data = gapminder)
+```
+
+
+## {auto-animate="true"}
+
+>Inicia con el data.frame [gapminder]{.plo}, [mapea ]
+
+```r
+ggplot(data = gapminder, 
+       mapping = aes(x = population))
+```
 ---
 
 ## Nombre de argumentos

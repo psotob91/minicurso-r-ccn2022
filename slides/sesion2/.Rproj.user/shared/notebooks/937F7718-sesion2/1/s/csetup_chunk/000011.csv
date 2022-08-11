@@ -1,0 +1,27 @@
+"0","#| label: setup"
+"0","#| include: false"
+"0","library(fontawesome)"
+"0","library(tidyverse)"
+"0","library(gt)"
+"0","library(gtExtras)"
+"0","library(gtsummary)"
+"0","library(showtext)"
+"2","Loading required package: sysfonts
+"
+"2","Loading required package: showtextdb
+"
+"0","library(kableExtra)"
+"2","
+Attaching package: ‘kableExtra’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    group_rows
+
+"
+"0","## Ver QUARTO RSTUDIO CONFERENCE: https://github.com/rstudio-conf-2022/get-started-quarto/blob/main/materials/02-authoring.qmd"
+"0","## "
+"0","## blackboard theme: https://github.com/schochastics/quarto-blackboard-theme"
+"0","## "
+"0","## https://github.com/schochastics/xaringan-themes"
