@@ -47,6 +47,8 @@ library(kableExtra)
 
 ## Visualización de datos
 
+<br/>
+
 >"The simple graph has brought more information to the data analyst's mind than any other device." --- John Tukey
 
 - La visualización de datos es la creación y el estudio de la representación visual de los datos.
@@ -80,6 +82,7 @@ knitr::include_graphics("img/ggplot2-part-of-tidyverse.png")
 - Inspirado en el libro [Grammar of Graphics]{.plo} de Leland Wilkinson
 
 :::
+::::
 
 ---
 
@@ -100,6 +103,8 @@ knitr::include_graphics("img/grammar-of-graphics.png")
 ```
 
 :::
+
+::::
 
 --- 
 
@@ -171,6 +176,9 @@ ggplot(data = gapminder)
 ggplot(data = gapminder, 
        mapping = aes(x = population))
 ```
+
+
+
 ---
 
 ## Nombre de argumentos
