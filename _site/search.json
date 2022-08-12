@@ -35,6 +35,76 @@
     "text": "Info extra\n\nCómo descargar los slides¿Cómo abrir proyecto existente?\n\n\nComo las diapositivas son interactivas, optamos por guardarlas como HTML (no como PDF). Puedes descargar la diapositiva con la opción Guardar como al dar click derecho sobre esta.\n\n\n\n\n\n\n\nCuando quiera iniciar un proyecto existente de R, recuerde abrirlo a través del archivo del proyecto (extensión *.Rproj)."
   },
   {
+    "objectID": "content/02-content.html",
+    "href": "content/02-content.html",
+    "title": "Visualización de datos con ggplot2",
+    "section": "",
+    "text": "En esta segunda sesión revisaremos los siguiente:\n\nggplot2\nEsteticas, geometrias,entre otras funciones.\n\n:::"
+  },
+  {
+    "objectID": "content/02-content.html#slides",
+    "href": "content/02-content.html#slides",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Slides",
+    "text": "Slides\n\n Ver diapositivas en una nueva ventana"
+  },
+  {
+    "objectID": "content/03-content.html",
+    "href": "content/03-content.html",
+    "title": "Maejo de datos con tidyverse",
+    "section": "",
+    "text": "En esta segunda sesión revisaremos los siguiente:\n\nManejo de datos tidyverse\nVerbos basicos de dplyr\n\n:::"
+  },
+  {
+    "objectID": "content/03-content.html#slides",
+    "href": "content/03-content.html#slides",
+    "title": "Maejo de datos con tidyverse",
+    "section": "Slides",
+    "text": "Slides\n\n Ver diapositivas en una nueva ventana"
+  },
+  {
+    "objectID": "content/03-content.html#código-para-taller",
+    "href": "content/03-content.html#código-para-taller",
+    "title": "Maejo de datos con tidyverse",
+    "section": "Código para taller",
+    "text": "Código para taller\n\nInstrucciones: [Enlace]"
+  },
+  {
+    "objectID": "content/03-content.html#datos",
+    "href": "content/03-content.html#datos",
+    "title": "Maejo de datos con tidyverse",
+    "section": "Datos",
+    "text": "Datos\n\nBD_Penales.dta (Datos contienen metadatos)\nmaca_meno_perclin.xlsx (Excel contiene codebook en otra hoja)\nmaca_meno_fase1.dta (Datos contienen metadatos)"
+  },
+  {
+    "objectID": "content/04-content.html",
+    "href": "content/04-content.html",
+    "title": "Análisis Exploratorio de Datos",
+    "section": "",
+    "text": "En esta segunda sesión revisaremos los siguiente:\n\nDiferenciar Análisis Inicial de Datos (AID) del Análisis Exploratorio de Datos (AED).\nAplicar verbos basicos de dplyr para AID o AED.\n\n:::"
+  },
+  {
+    "objectID": "content/04-content.html#slides",
+    "href": "content/04-content.html#slides",
+    "title": "Análisis Exploratorio de Datos",
+    "section": "Slides",
+    "text": "Slides\n\n Ver diapositivas en una nueva ventana"
+  },
+  {
+    "objectID": "content/04-content.html#código-para-taller",
+    "href": "content/04-content.html#código-para-taller",
+    "title": "Análisis Exploratorio de Datos",
+    "section": "Código para taller",
+    "text": "Código para taller\n\nInstrucciones: [Enlace]"
+  },
+  {
+    "objectID": "content/04-content.html#datos",
+    "href": "content/04-content.html#datos",
+    "title": "Análisis Exploratorio de Datos",
+    "section": "Datos",
+    "text": "Datos\n\nBD_Penales.dta (Datos contienen metadatos)\nmaca_meno_perclin.xlsx (Excel contiene codebook en otra hoja)\nmaca_meno_fase1.dta (Datos contienen metadatos)"
+  },
+  {
     "objectID": "content/index.html",
     "href": "content/index.html",
     "title": "Clases, lecturas y videos",

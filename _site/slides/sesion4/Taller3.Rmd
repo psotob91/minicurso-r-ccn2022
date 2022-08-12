@@ -1,0 +1,98 @@
+---
+title: "Taller 2 - Manejo de datos con tidyverse"
+output: html_notebook
+---
+
+## INSTRUCCIONES
+
+-   Tiempo: 30 min
+
+-   Descripción: En este taller nos familizaremos con el manejo de datos
+
+-   Realice las siguientes acciones en su computador:
+
+    1)  Trabajaremos con el proyecto configurado en el Taller 1.
+
+    2)  Trabaje sobre este R Notebook.
+
+    3)  Use el conjunto de datos `maca_meno_preclin.xlsx` que importó con el nombre de `datos_preclin`.
+
+    4)  Abra el archivo en excel `maca_meno_preclin.xlsx`, en la hoja 2 está el libro de códigos.
+
+## Desarrollo del taller:
+
+### Cargar los paquetes
+
+```{r}
+# Tip: library(paquete)
+# Tip2: Cargue tidyverse, Hmisc y janitor
+
+```
+
+### Importar datos
+
+```{r}
+# Tip: objeto <- read_excel("archivo.xlsx")
+
+```
+
+### Explore globalmente los datos
+
+```{r}
+# Tip: Use glimpse() y contents()
+
+```
+
+### Identifique filas completamente duplicadas
+
+```{r}
+
+```
+
+### Identifique filas duplicadas solo por ID
+
+### Si hay duplicados, eliminelos. Si no hay duplicados, justifique su respuesta.
+
+### Identifique valores extremos no plausibles con medidas descriptivas
+
+### Identifique valores extremos no plausibles con grafico de cajas
+
+### Haga algunas consultas (queries) de interés
+
+### Consulta 1
+
+Muestre la glucosa final y trigliceridos final mínimo, máximo y promedio del grupo control:
+
+```{r}
+
+```
+
+### Consulta 2
+
+Categorice el peso inicial en \<22 y \>=22. Luego muestre el promedio y mediana de colesterol según las categorias de peso creadas.
+
+### Consulta 3
+
+Cree la variable diferencia de peso final menos inicial y muestre el minimo y maximo segun protocolo seguido.
+
+## Tabla descriptiva con gtsummary()
+
+### Cree una tabla descriptiva con toda la muestra y todas las variables excepto id.
+
+```{r}
+
+```
+
+### Cree una tabla comparativa de grupos segun tratamiento (sin tabla global). No incluya a id.
+
+```{r}
+
+```
+
+### Cree una taba comparativa y global (no incluya id)
+
+```{r}
+
+```
+
+### Cree una tabla anexa donde reporte minimos y maximos.

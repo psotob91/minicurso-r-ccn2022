@@ -1,4 +1,31 @@
 ---
-title: "Análisis descriptivo univariado"
+title: "Visualización de datos con ggplot2"
 date: "2022-08-06"
 ---
+
+## Objetivos
+
+En esta segunda sesión revisaremos los siguiente:
+
+- ggplot2
+
+- Esteticas, geometrias,entre otras funciones.
+
+:::
+
+
+## Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs3, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion2/sesion2")
+```
+
+```{r}
+#| echo: false
+#| out.width: 100%
+knitr::include_url('../slides/sesion2/sesion2.html')
+```

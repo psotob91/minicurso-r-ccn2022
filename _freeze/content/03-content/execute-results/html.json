@@ -1,0 +1,14 @@
+{
+  "hash": "594cd1705b37d85532ec3e1e4962b53d",
+  "result": {
+    "markdown": "---\ntitle: \"Maejo de datos con tidyverse\"\ndate: \"2022-08-12\"\n---\n\n\n\n## Objetivos\n\nEn esta segunda sesión revisaremos los siguiente:\n\n- Manejo de datos tidyverse\n\n- Verbos basicos de dplyr\n\n:::\n\n\n## Slides\n\n\n\n\n<p><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/sesion3y4/sesion3.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> Ver diapositivas en una nueva ventana</a></p>\n\n::: {.cell}\n<iframe src=\"../slides/sesion3y4/sesion3.html\" width=\"100%\" height=\"400px\" data-external=\"1\"></iframe>\n:::\n\n\n## Código para taller\n\n- Instrucciones: [[Enlace](../slides/sesion3y4/taller-sesion3.qmd)]\n    \n## Datos \n\n- [BD_Penales.dta](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/BD_Penales.dta?raw=true) (Datos contienen metadatos)\n\n- [maca_meno_perclin.xlsx](../slides/sesion3y4/maca_meno_perclin.xlsx) (Excel contiene `codebook` en otra hoja)\n\n- [maca_meno_fase1.dta](../slides/sesion3y4/maca_meno_fase1.dta) (Datos contienen metadatos)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

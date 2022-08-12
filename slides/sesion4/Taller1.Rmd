@@ -1,0 +1,42 @@
+---
+title: "Taller 1 - Familiarizandose con R"
+output: html_notebook
+---
+
+## INSTRUCCIONES
+
+-   Tiempo: 15 min
+
+-   Descripción: En este taller nos familizaremos con la configuración del programa R a través de RStudio.
+
+## Realice las siguientes acciones en su computador:
+
+1)  Cree una carpeta denominada: `Taller 1`.
+
+2)  Cree un Proyecto de R denominado igual que la carpeta: `Sesión 1`.
+
+3)  Descargue los datos denominados: `maca_meno_preclin.xlsx` y `maca_meno-fase1.dta` del siguiente enlace: https://ietsi-academy-aed.netlify.app/recursos/rec-sesion1.html
+
+    - Importe el conjunto de datos `maca_meno_preclin.xlsx` con el nombre de `datos_preclin`. 
+    - Importe el conjunto de datos `maca_meno-fase1.dta` con el nombre `datos_fase1`.
+
+4)  Coloque los datos en la carpeta `Taller 1`
+
+5)  Cree un notebook de RMarkdown al cual denomine: `Ejercicios de Taller 1`.
+
+6)  En el Notebook haga lo siguiente:
+
+    -   Cree un titulo diferente para cada dataset:
+
+        -   Título 1: **Dataset maca_meno_preclin**
+
+        -   Título 2: **Dataset maca_meno_fase1**
+
+    -   Instale el paquete `labelled()`.
+
+    -   Cargue estos paquetes.
+
+    -   Importe los datos a R tratando de convervar la mayor información posible de los datos de origen.
+
+    -   Haga comentarios de cada proceso en el notebook si lo considera conveniente.
+  

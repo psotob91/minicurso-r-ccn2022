@@ -1,4 +1,44 @@
 ---
-title: "Análisis descriptivo bivariado"
-date: "2022-08-13"
+title: "Maejo de datos con tidyverse"
+date: "2022-08-12"
 ---
+
+
+## Objetivos
+
+En esta segunda sesión revisaremos los siguiente:
+
+- Manejo de datos tidyverse
+
+- Verbos basicos de dplyr
+
+:::
+
+
+## Slides
+
+```{r slides-videos, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs3, echo=FALSE, results="asis"}
+slide_buttons("/slides/sesion3y4/sesion3")
+```
+
+```{r}
+#| echo: false
+#| out.width: 100%
+knitr::include_url('../slides/sesion3y4/sesion3.html')
+```
+
+## Código para taller
+
+- Instrucciones: [[Enlace](../slides/sesion3y4/taller-sesion3.qmd)]
+    
+## Datos 
+
+- [BD_Penales.dta](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/BD_Penales.dta?raw=true) (Datos contienen metadatos)
+
+- [maca_meno_perclin.xlsx](../slides/sesion3y4/maca_meno_perclin.xlsx) (Excel contiene `codebook` en otra hoja)
+
+- [maca_meno_fase1.dta](../slides/sesion3y4/maca_meno_fase1.dta) (Datos contienen metadatos)

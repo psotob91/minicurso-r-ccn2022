@@ -1,0 +1,81 @@
+---
+title: "Taller Sesion 3 - Manejo de datos con tidyverse"
+output: html_notebook
+---
+
+## INSTRUCCIONES
+
+-   Descripción: En este taller nos familizaremos con el manejo de datos
+
+-   Realice las siguientes acciones en su computador:
+
+    1)  Trabajaremos con el proyecto configurado en el Taller 1.
+
+    2)  Trabaje sobre este R Notebook.
+
+    3)  Use el conjunto de datos  `datos_fase1` que se importó de `maca_meno-fase1.dta`.
+    
+
+## Desarrollo del taller:
+
+### Cargar los paquetes
+
+Con este código se cargan los paquetes. Es recomendable instalar todos los paquetes al inicio y luego cargarlos todos! Solo instala una vez, luego comenta para no reinstalar a cada rato.
+
+```{r}
+# Tip: library(paquete)
+# Tip2: Cargue tidyverse, Hmisc y janitor
+
+```
+
+### Importar datos
+
+```{r}
+# Tip: objeto <- import("archivo.dta")
+
+```
+
+### Filtre al grupo tratado == 1 y guardelo como datos2. Imprima datos2
+
+```{r}
+# Tip: Use filter()
+
+```
+
+### Filtre a quienes tienen edad > 27 y menor de 33 sin guardarlo, solo imprimalo:
+
+```{r}
+# Tip: Use filter()
+
+```
+
+### Selecciona las variables id, treat, age y married. Guarde como data3 e imprima.
+
+
+
+### Elimine las varaibles married2 y weight. No guarde solo imprima.
+
+
+
+### Seleccione id, time y race y married. Luego, filtre por status marital 0.
+
+
+
+### Seleccione id, treat, weight y height. Luego, calcule el indice de masa corporal. Guarde como data4 e imprima. Llame a esta variable imc.
+
+```{r}
+# Tip: Use select() y luego mutate()
+
+```
+
+### Categorice edad en edad 20-25, 26-35, 36-41. Guarde como data5 e imprima.
+
+
+
+### Categorice indice de masa corporal en <18.5 (Bajo peso), 18.5 a 24.9 (peso normal), 25-29.9 (sobrepeso) y 30+ (obeso). Llame a esta variable imc_cat. GUarde como data6 e imprima
+
+
+
+### Coloque etiquetas a imc y a imc_cat para que otro investigador entienda su significado.
+
+
